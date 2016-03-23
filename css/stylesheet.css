@@ -1,0 +1,91 @@
+/*
+* @Author: whyisyoung
+* @Date:   2016-03-17 16:41:41
+* @Last Modified by:   whyisyoung
+* @Last Modified time: 2016-03-18 01:48:31
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+.main {
+	text-align: center;
+	max-width: 800px;
+	margin: 0 auto;
+
+}
+
+.note {
+	border-left-width: 10px;
+	background-color: rgba(128, 128, 128, 0.05);
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	padding: 15px 20px;
+	/*margin: 0 0 1.1em;*/
+	border-left: 5px solid rgba(128, 128, 128, 0.05);
+	display: block;
+	text-align: left;
+	margin-left: 50px;
+}
+
+.note ul {
+	margin-left: 30px;
+}
+
+.name {
+	font-size: 13pt;
+	margin-top: 30px;
+}
+
+.name input {
+	width: 150px;
+	height: 34px;
+}
+
+
+.black {
+	color: #111;
+}
+
+.grey {
+	color: #999;
+	text-decoration: line-through;
+}
+
+.slanglist {
+	padding: 48px 0;
+	display: inline-block;
+	margin-left: 32%;
+	text-align: left;
+	height: 80%;
+	width: 100%;
+	font-size: 13pt;
+}
+
+.slanglist input {
+	margin-right: 2%;
+}
+
+.whochosed {
+	color: red;
+	font-size: 10pt;
+	margin-left: 20px;
+	display: inline;
+}
+
+.p_hidden {
+	color: red;
+	font-size: 10pt;
+	margin-left: 20px;
+	display: inline;
+	visibility: hidden;
+}
+
+.p_show {
+	color: red;
+	font-size: 10pt;
+	margin-left: 20px;
+	display: inline;
+	white-space: pre;
+}
