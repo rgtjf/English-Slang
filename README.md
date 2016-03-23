@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS `Slang` (
 ## Import data
   
 ### CSV 
-  [CSV](res/Slang.csv)
+  [CSV Download](res/Slang.csv)
 
 ### SQL
-  [SQL](res/Slang.sql)
+  [SQL Download](res/Slang.sql)
