@@ -20,15 +20,15 @@ CREATE TABLE IF NOT EXISTS `Slang` (
   `slangID` int(11) NOT NULL DEFAULT '0'
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 ```
-![gras](table.png)
+![gras](res/table.png)
 
 ### Solution.2
-  执行[SQL]()
+  执行[SQL](res/Slang.sql)
 
 ## Import data
   
 ### CSV 
-  
+  [CSV](res/Slang.csv)
 
 ### SQL
-    
+  [SQL](res/Slang.sql)
