@@ -38,8 +38,8 @@ session_start();
                   <li>You can use ctrl-f (command-f on Mac) to search the slang you want to choose.</li>
                   <!--li style="color: red;">由于某个小问题来不及修复，勾选后不可更改！</li-->
                   <li>If you have any questions, please contact Mario(51151201048@ecnu.cn) or Flora(51151201049@ecnu.cn) or Liam(51151201057@ecnu.cn). </li>
-                  <li><a href='./Slang Word List.docx' download>Downloads: Slang words list.docx</a></li>  
-                  <li><a href='./1st Speech-Thursday.docx' download>Downloads: 1st Speech-Thursday.docx</a></li>  
+                  <li><a href='./res/Slang Word List.docx' download>Downloads: Slang words list.docx</a></li>  
+                  <li><a href='./res/1st Speech-Thursday.docx' download>Downloads: 1st Speech-Thursday.docx</a></li>  
                   <li style="color: red">Update to <strong>11:00:00 03/23</strong></li>
             </ul>
             </blockquote>
