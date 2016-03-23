@@ -8,4 +8,27 @@ This is developed for our english course to help us choose four and  only four w
 - PHP
 - MySQL
 
+## Create Tabel In Mysql
 
+### Solution.1 
+```sql
+CREATE TABLE IF NOT EXISTS `Slang` (
+  `slang` varchar(255) CHARACTER SET utf16 COLLATE utf16_unicode_ci DEFAULT NULL,
+  `checked` int(11) DEFAULT NULL,
+  `chineseName` varchar(255) DEFAULT NULL,
+  `englishName` varchar(255) DEFAULT NULL,
+  `slangID` int(11) NOT NULL DEFAULT '0'
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+```
+![gras](table.png)
+
+### Solution.2
+  执行[SQL]()
+
+## Import data
+  
+### CSV 
+  
+
+### SQL
+    
