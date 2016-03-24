@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS `Slang` (
   [SQL Download](res/Slang.sql)
 
 
-##Put In Your Server! Enjoy Your Self!
+##Put In Your Server! Enjoy Yourself!
 
 ![gras](res/example.png)
 
